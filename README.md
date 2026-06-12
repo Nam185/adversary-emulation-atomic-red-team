@@ -30,10 +30,8 @@ the system can observe/detect them, then identify blind spots in monitoring and 
 4. Analyzed the success ratio per tactic to estimate detection coverage and gaps.
 
 ## Demonstration videos
-Recorded executions of selected attack techniques:
-- [Atomic Test — Logoff System (T1531)]([PASTE DRIVE LINK])
-- [Atomic Test — ESXi VM termination (T1489)]([PASTE DRIVE LINK])
-- [Add more as needed]([PASTE DRIVE LINK])
+Recorded executions of the attack techniques (Google Drive):
+https://drive.google.com/drive/folders/1yn38jI5qiPxzeodnVWkUaaSyIVK2vRMW
 
 ## Tools & environment
 Atomic Red Team (Red Canary) · MITRE ATT&CK · PowerShell · Windows 10
